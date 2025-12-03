@@ -1,0 +1,18 @@
+=== Malicious Service ===
+○ system-update-custom.service - System Update Service Custom
+     Loaded: loaded (/etc/systemd/system/system-update-custom.service; enabled; vendor preset: enabled)
+     Active: inactive (dead)
+
+# /etc/systemd/system/system-update-custom.service
+[Unit]
+Description=System Update Service Custom
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/opt/system_services/update_service.sh
+Restart=always
+User=root
+
+[Install]
+WantedBy=multi-user.target

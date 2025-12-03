@@ -1,0 +1,221 @@
+---- History for champuser ----
+ipconfig
+clear
+ip -br a
+wget https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.1-linux-amd64~
+ping github.com
+wget https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.1-linux-amd64~
+sudo apt update
+wget https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.1-linux-amd64~
+wget https://github.com/Velocidex/velociraptor/releases/download/v0.74/velociraptor-v0.74.1-linux-amd64
+cp velociraptor-v0.74.1-linux-amd64  /usr/local/bin/velociraptor
+sudo cp velociraptor-v0.74.1-linux-amd64  /usr/local/bin/velociraptor
+chmod +x /usr/local/bin/velociraptor
+sudo chmod +x /usr/local/bin/velociraptor
+velociraptor config generate -i
+nano /root/server.config.yaml
+sudo velocirpator --config server.config.yaml frountend
+sudo velociraptor --config server.config.yaml frountend
+sudo velociraptor --help
+sudo velociraptor --config server.config.yaml frontend
+sudo velociraptor config generate -1
+sudo velociraptor config generate -i
+sudo velociraptor --config server.config.yaml frontend
+DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AVGzR1BCax0JxbCpJkXdxndYvbvLjtKwpkP3qIDJkp48TuEx3KXwpj3hotUzppy6vuBFWw" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
+sudo DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AVGzR1BCax0JxbCpJkXdxndYvbvLjtKwpkP3qIDJkp48TuEx3KXwpj3hotUzppy6vuBFWw" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
+sudo DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AVGzR1AHnPrNtSmBxTfTeJKpnMv_ASgzhoc4espBNmICQuiqpbQ9GfG1WIv-XgYFvQR5ng" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
+DISPLAY= /opt/google/chrome-remote-desktop/start-host --code="4/0AVGzR1AHnPrNtSmBxTfTeJKpnMv_ASgzhoc4espBNmICQuiqpbQ9GfG1WIv-XgYFvQR5ng" --redirect-url="https://remotedesktop.google.com/_/oauthredirect" --name=$(hostname)
+cd /Desktop
+cd Desktop
+ls
+scp client.config.yaml ieuser@10.0.17.72
+scp client.config.yaml ieuser@10.0.17.72:/C:/Users/IEUser/Desktop
+ls
+pwd
+ip -br a
+cd /etc/velociraptor/
+ls
+config hash_password --password "password"
+/etc/velociraptor/ hash_password --password "password"
+hash_password --password "password"
+velociraptor config hash_password --password "password"
+/usr/local/bin/velociraptor hash_password --password "password
+/usr/local/bin/velociraptor hash_password --password "password"
+/usr/local/bin/velociraptor config generate --gui_user louis:password
+/usr/local/bin/velociraptor --help
+sudo velociraptor --config /etc/velociraptor/server.config.yaml user add newadmin --role administrator
+ls
+which velociraptor 
+cd /usr/local/bin/
+ks
+ls
+velociraptor --config server.config.yaml config client > client.config.yaml
+sudo velociraptor --config server.config.yaml config client > client.config.yaml
+sudo su
+./velociraptor --config client.config.yaml client -v
+./velociraptor --config /etc/velociraptor/server.config.yaml config client > client.config.yaml
+sudo ./velociraptor --config /etc/velociraptor/server.config.yaml config client > client.config.yaml
+sudo su
+cd /home/champuser/Desktop/
+ls
+ps ax | grep sshd
+ls
+cat client.config.yaml
+systemctl status velociraptor.service
+sudo apt install curl
+cd /etc
+ls
+cd /home
+ls -la /usr/local/bin/velociraptor 
+ls 0la /usr/local/sbin/velociraptor
+cd etc
+cd /etc
+velociraptor 
+ls
+sudo find / -name "velociraptor" -type f 2>/dev/null
+cd /home
+cd /usr/local/bin/velociraptor
+cd /usr/local/bin
+ls
+ps aux | grep velociraptor
+sudo pkill -9 velociraptor 
+ps aux | grep velociraptor 
+sudo velociraptor --config server.config.yaml frontend --verbose
+cd /etc
+sudo mkdir -p /etc/velociraptor
+cd velociraptor/
+sudo cp /champuser/home/server.config.yaml
+sudo cp /champuser/home/server.config.yaml /etc/velociraptor/server.config.yaml
+sudo cp /home/server.config.yaml /etc/velociraptor/server.config.yaml
+sudo cp /home/champuser/server.config.yaml /etc/velociraptor/server.config.yaml
+ls
+sudo chmod 600 /etc/velociraptor/server.config.yaml 
+sudo velociraptor --config /etc/velociraptor/server.config.yaml frontend --verbose
+ls
+sudo nano server.config.yaml 
+sudo velociraptor --config /etc/velociraptor/server.config.yaml frontend --verbose
+sudo nano server.config.yaml 
+sudo velociraptor --config /etc/velociraptor/server.config.yaml frontend --verbose
+sudo nano server.config.yaml 
+sudo velociraptor --config /etc/velociraptor/server.config.yaml frontend --verbose
+systemctl status velociraptor
+which velociraptor 
+ip -br a
+ps aux | grep velociraptor
+sudo ufw allow 8889/tcp
+sudo nano server.config.yaml
+sudo velociraptor --config server.config.yaml frontend 
+sudo systemctl velociraptor
+sudo velociraptor --config server.config.yaml frontend 
+sudo velociraptor --config server.config.yaml frontend --verbose
+pwd
+sudo velociraptor config generate -i
+sudo velociraptor --config server.config.yaml frontend
+sudo velociraptor config generate -i
+sudo velociraptor --config server.config.yaml frontend
+sudo velociraptor config generate -i
+sudo velociraptor --config server.config.yaml frontend
+sudo velociraptor --config server.config.yaml frontend --verbose
+sudo velocirpator --config server.config.yaml user add newadmin
+sudo velociraptor --config server.config.yaml user add newadmin
+sudo velociraptor --config server.config.yaml user add newadmin --role administrator
+velocirprtor --config /home/champuser/Desktop
+velocirprtor --config /home/champuser/Desktop/server.config.yaml user show
+which velociraptor
+velociraptor version
+sudo systemctl status velociraptor
+sudo netstat -tulpn | grep -E '8000|8002|8003|8889'
+sudo ss -tulpn | grep -E '8000|8002|8003|8889'
+ls -la /opt/velociraptor/server.config.yaml
+sudo ls -la /opt/velociraptor/server.config.yaml
+sudo velociraptor --config /home/champuser/Desktop/server.config.yaml 
+sudo velociraptor --config /home/champuser/Desktop/server.config.yaml service install
+sudo velociraptor --config /home/champuser/Desktop/server.config.yaml frontend -v
+sudo systemctl status velociraptor
+sudo systemctl enable  velociraptor
+sudo systemctl daemon-reload
+sudo systemctl enable  velociraptor
+sudo systemctl status velociraptor.service
+curl -k http://localhost:8889/
+curl -k http://localhost:/8889/
+curl -k http://localhost:8889/
+curl -k https://localhost:8889/
+ls
+pwd
+cd /etc/velociraptor/
+pwd
+cd Desktop/
+cd /etc
+ls
+sudo nano nftables.conf 
+systemctl status sshd
+sudo apt install sshd
+sudo apt update
+sudo apt install openssh-server
+sudo systemctl start sshd
+sudo systemctl enable sshd
+sudo systemctl status sshd
+sudo ufw allow ssh
+sudo ufw allow 22/tcp
+cd /etc/ssh/sshd_config
+sudo nano /etc/ssh/sshd_config
+ls
+cd Desktop/
+ls
+nano hi.txt
+scp hi.txt ieuser@10.0.17.72:
+scp hi.txt ieuser@10.0.17.72:"C:/Users/IEUser/Downloads
+scp hi.txt ieuser@10.0.17.72:"C:/Users/IEUser/Downloads/"
+scp client.config.yaml ieuser@10.0.17.72:"C:/Users/IEUser/Downloads/"
+nano client.config.yaml 
+nano server.config.yaml 
+sudo nano server.config.yaml 
+ls
+cd /etc/velociraptor/
+ls
+sudo velociraptor --config /etc/velociraptor/server.config.yaml frontend
+sudo velociraptor --config /etc/velociraptor/server.config.yaml frontend --verbose
+ls
+pwd
+ls
+sudo nano /root/server.config.yaml
+sudo su
+ls /usr/local/bin/velociraptor 
+ls /usr/local/bin/velociraptor/
+cd /usr/local/bin/
+ks
+ls
+cd /etc
+ls
+cd velociraptor/
+ls
+sudo nano server.config.yaml 
+ip -br a
+systemctl status velociraptor_server.status
+cd /etc/velociraptor/
+ls
+sudo velociraptor --config server.config.yaml frontend -v
+cd /etc/velociraptor/
+sudo velociraptor --config server.config.yaml frontend -v
+$DESKTOP_SESSION
+env | grep DESKTOP_SESSION=
+pgrep -l "gnome|kde|mate|cinnamon|lxde|xfce|jwm" or ps -A | egrep -i "gnome|kde|mate|cinnamon|lxde|xfce|jwm"
+sudo apt install gnome-shell-extensions gnome-shell-extension-manager
+wget https://research.cyfidant.com
+grep wget /var/log/audit/audit.log
+sudo apt-get install netcat
+cat /etc/passwd
+cat /etc/group | grep sudo~
+cat /etc/group
+sudo crontab -l
+sudo cat /opt/scheduled_tasks/system_maintenance.sh
+sudo cat /opt/scheduled_tasks/data_backup.sh
+cd /home
+ls
+cd ..
+ls
+cd /home
+cd champuser
+ls
+nano huntscript.sh 
+sudo nano huntscript.sh 

@@ -1,0 +1,9 @@
+=== Suspicious Users ===
+svc_backup:x:1001:1001:Suspicious backup service account:/home/svc_backup:/bin/bash
+admin_temp:x:1002:1002:Temporary admin account:/home/admin_temp:/bin/bash
+webadmin:x:1003:1003:Web administrator account:/home/webadmin:/bin/bash
+
+[*] User details:
+uid=1001(svc_backup) gid=1001(svc_backup) groups=1001(svc_backup),1004(remoteadmins)
+uid=1002(admin_temp) gid=1002(admin_temp) groups=1002(admin_temp),1005(backupoperators_custom)
+uid=1003(webadmin) gid=1003(webadmin) groups=1003(webadmin),27(sudo)

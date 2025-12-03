@@ -1,0 +1,13 @@
+total 48
+drwxrwxrwt 12 root root 4096 Dec  2 22:11 .
+drwxr-xr-x 14 root root 4096 Sep 11  2024 ..
+drwx------  3 root root 4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-colord.service-lzjPo6
+drwx------  3 root root 4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-ModemManager.service-qIsuSE
+drwx------  3 root root 4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-power-profiles-daemon.service-1fkYH0
+drwx------  3 root root 4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-switcheroo-control.service-Eyu1Bz
+drwx------  3 root root 4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-systemd-logind.service-ykg6VT
+drwx------  3 root root 4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-systemd-oomd.service-WZcuuU
+drwx------  3 root root 4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-systemd-resolved.service-27vsKL
+drwx------  3 root root 4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-systemd-timesyncd.service-Mdreih
+drwx------  3 root root 4096 Dec  2 20:18 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-ubuntu-advantage-desktop-daemon.service-XuZPmN
+drwx------  3 root root 4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-upower.service-rUC15D

@@ -1,0 +1,20 @@
+Active Internet connections (only servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State       PID/Program name    
+tcp        0      0 0.0.0.0:31337           0.0.0.0:*               LISTEN      172261/nc           
+tcp        0      0 127.0.0.1:631           0.0.0.0:*               LISTEN      166693/cupsd        
+tcp        0      0 0.0.0.0:8888            0.0.0.0:*               LISTEN      172258/nc           
+tcp        0      0 0.0.0.0:22              0.0.0.0:*               LISTEN      596/sshd: /usr/sbin 
+tcp        0      0 0.0.0.0:4444            0.0.0.0:*               LISTEN      172255/nc           
+tcp        0      0 127.0.0.53:53           0.0.0.0:*               LISTEN      428/systemd-resolve 
+tcp6       0      0 ::1:631                 :::*                    LISTEN      166693/cupsd        
+tcp6       0      0 :::22                   :::*                    LISTEN      596/sshd: /usr/sbin 
+udp        0      0 127.0.0.53:53           0.0.0.0:*                           428/systemd-resolve 
+udp        0      0 0.0.0.0:5353            0.0.0.0:*                           472/avahi-daemon: r 
+udp        0      0 10.0.17.79:38166        0.0.0.0:*                           834/chrome-remote-d 
+udp        0      0 192.168.1.101:46475     0.0.0.0:*                           834/chrome-remote-d 
+udp        0      0 10.0.17.79:47561        0.0.0.0:*                           834/chrome-remote-d 
+udp        0      0 10.0.17.79:43493        0.0.0.0:*                           834/chrome-remote-d 
+udp        0      0 0.0.0.0:39806           0.0.0.0:*                           472/avahi-daemon: r 
+udp6       0      0 fe80::ffff:9962:e6f:546 :::*                                476/NetworkManager  
+udp6       0      0 :::5353                 :::*                                472/avahi-daemon: r 
+udp6       0      0 :::38885                :::*                                472/avahi-daemon: r 

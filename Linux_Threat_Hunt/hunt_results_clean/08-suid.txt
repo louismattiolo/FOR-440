@@ -1,0 +1,2 @@
+=== SUID Backdoor ===
+-rwsr-xr-x 1 root root 282088 Dec  2 20:25 /tmp/find_backup

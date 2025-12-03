@@ -1,0 +1,12 @@
+=== Suspicious Ports and Listeners ===
+tcp        0      0 0.0.0.0:31337           0.0.0.0:*               LISTEN      172261/nc           
+tcp        0      0 0.0.0.0:8888            0.0.0.0:*               LISTEN      172258/nc           
+tcp        0      0 0.0.0.0:4444            0.0.0.0:*               LISTEN      172255/nc           
+
+[*] Processes using these ports:
+COMMAND    PID USER   FD   TYPE  DEVICE SIZE/OFF NODE NAME
+nc      172255 root    3u  IPv4 1520306      0t0  TCP *:4444 (LISTEN)
+COMMAND    PID USER   FD   TYPE  DEVICE SIZE/OFF NODE NAME
+nc      172258 root    3u  IPv4 1520313      0t0  TCP *:8888 (LISTEN)
+COMMAND    PID USER   FD   TYPE  DEVICE SIZE/OFF NODE NAME
+nc      172261 root    3u  IPv4 1520315      0t0  TCP *:31337 (LISTEN)

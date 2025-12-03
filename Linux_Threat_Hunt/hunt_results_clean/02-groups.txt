@@ -1,0 +1,6 @@
+=== Suspicious Groups ===
+remoteadmins:x:1004:svc_backup
+backupoperators_custom:x:1005:admin_temp
+
+[*] Sudo group membership:
+sudo:x:27:champuser,webadmin

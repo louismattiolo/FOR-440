@@ -1,0 +1,24 @@
+total 360
+drwxrwxrwt 19 root      root        4096 Dec  2 22:11 .
+drwxr-xr-x 21 root      root        4096 Dec  2 21:52 ..
+srwxrwxr-x  1 champuser champuser      0 Nov  9 01:01 chromoting.champuser.host_services_mojo_ipc
+-rwsr-xr-x  1 root      root      282088 Dec  2 20:25 find_backup
+drwxrwxrwt  2 root      root        4096 Nov  5 12:29 .font-unix
+drwxrwxrwt  2 root      root        4096 Nov  5 12:45 .ICE-unix
+drwx------  4 root      root        4096 Nov  5 12:29 snap-private-tmp
+-rwxrwxrwx  1 root      root          57 Dec  2 20:25 system_config.txt
+drwx------  3 root      root        4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-colord.service-vmzLk2
+drwx------  3 root      root        4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-ModemManager.service-hAU4Na
+drwx------  3 root      root        4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-power-profiles-daemon.service-Oj8LTn
+drwx------  3 root      root        4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-switcheroo-control.service-NUfRoa
+drwx------  3 root      root        4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-systemd-logind.service-89ppQ7
+drwx------  3 root      root        4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-systemd-oomd.service-OABAek
+drwx------  3 root      root        4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-systemd-resolved.service-KKInzu
+drwx------  3 root      root        4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-systemd-timesyncd.service-ZTkeEX
+drwx------  3 root      root        4096 Dec  2 20:18 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-ubuntu-advantage-desktop-daemon.service-9CSQKR
+drwx------  3 root      root        4096 Nov  5 12:29 systemd-private-88658fbfbc0b4d82931ddcf08dd212c2-upower.service-k6yFsX
+drwxrwxrwt  2 root      root        4096 Nov  5 12:29 .Test-unix
+drwx------  2 root      root        4096 Dec  2 20:18 tmpfwkyz4mk
+drwxrwxrwt  2 root      root        4096 Nov  5 12:29 .X11-unix
+-r--r--r--  1 champuser champuser     11 Nov  5 12:29 .X20-lock
+drwxrwxrwt  2 root      root        4096 Nov  5 12:29 .XIM-unix

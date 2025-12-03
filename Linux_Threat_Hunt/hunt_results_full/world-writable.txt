@@ -1,0 +1,2 @@
+/tmp/system_config.txt
+/opt/credentials.txt

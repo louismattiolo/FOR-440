@@ -1,0 +1,2 @@
+0 3 * * * /opt/scheduled_tasks/system_maintenance.sh
+30 2 * * * /opt/scheduled_tasks/data_backup.sh

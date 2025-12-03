@@ -1,0 +1,6 @@
+root:x:0:0:root:/root:/bin/bash
+sync:x:4:65534:sync:/bin:/bin/sync
+champuser:x:1000:1000:champuser,,,:/home/champuser:/bin/bash
+svc_backup:x:1001:1001:Suspicious backup service account:/home/svc_backup:/bin/bash
+admin_temp:x:1002:1002:Temporary admin account:/home/admin_temp:/bin/bash
+webadmin:x:1003:1003:Web administrator account:/home/webadmin:/bin/bash
